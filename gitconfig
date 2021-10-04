@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = avuacheux@gmail.com
+	name = Arnaud Vuacheux
